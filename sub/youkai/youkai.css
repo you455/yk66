@@ -1,0 +1,9 @@
+.main-right01 {
+    display: flex;
+    background-color: #f9fbfe;
+    /* 压力布局水平对齐方法，space-around
+    表示把空白区域平均分配到子元素两边  */
+    justify-content: space-around;
+    padding: 0.5rem 0px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
